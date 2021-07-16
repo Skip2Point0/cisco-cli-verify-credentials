@@ -2,7 +2,7 @@
 
 Summary:
 
-This script is intended for an environment where many combinations of different usernames and passwords exists. It will 
+This script is intended for an environment where many combinations of different usernames and passwords exist. It will 
 attempt to SSH, and then Telnet, into switches defined in the config PARAMETERS of the script and will try to authenticate.
 Upon successful authentication, credentials for that specific device will be displayed in the console. Might take a while 
 to run depending on the number of switches and username/password combinations. This was tested primarily in virtual Cisco
